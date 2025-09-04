@@ -40,4 +40,3 @@ I hold a background in **Business Information Technology** with a strong focus o
 
 ⭐️ Feel free to explore my repositories and connect with me if you’d like to collaborate!
 
-I'm always open to new ideas and opportunities. You can learn more about me on my [website](https://kavi.sh/) 🌐 or connect with me on [LinkedIn](https://www.linkedin.com/in
