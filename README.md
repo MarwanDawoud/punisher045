@@ -2,7 +2,7 @@
 ### Welcome to my <img src="https://img.icons8.com/color/96/000000/github--v1.png" height="24"/> GitHub Profile
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-link/"><img src="https://img.icons8.com/color/96/000000/linkedin-circled.png" height="16"/> LinkedIn</a> •
+  <a href="[https://www.linkedin.com/in/marwan-dawood-3415b5285//"><img src="https://img.icons8.com/color/96/000000/linkedin-circled.png" height="16"/> LinkedIn</a> •
   <a href="mailto:your-email@gmail.com"><img src="https://img.icons8.com/color/96/000000/email.png" height="16"/> Email</a>
 </p>
 
